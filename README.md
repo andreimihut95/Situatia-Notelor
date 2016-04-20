@@ -1,2 +1,2 @@
 # Situatia-Notelor
-Proiect facut in HTML, CSS, PHP si Javascript cu situatia notelor intr-o facultate.
+Proiect facut in HTML, CSS, PHP si Javascript avand ca tema situatia notelor intr-o facultate.
